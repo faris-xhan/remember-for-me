@@ -5,6 +5,7 @@ const logger = require("morgan");
 const indexRouter = require("./routes/index");
 const keepItRouter = require("./routes/keepIt");
 const giveItRouter = require("./routes/giveIt");
+const helmet = require("helmet");
 
 const app = express();
 
@@ -12,6 +13,7 @@ const app = express();
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "ejs");
 
+app.use(helmet());
 app.use(logger("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
