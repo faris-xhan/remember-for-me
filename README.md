@@ -32,7 +32,7 @@ npm run dev
 ## What I learned 🤓
 
 - How to connect mysql with Express.js
-- How to work with environment varaibles.
+- How to work with environment variables.
 - How to host your express app.
 
 ## Author
