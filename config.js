@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const env = process.env;
 const config = {
-  DOMAIN: env.DOMAIN || "http://localhost:3000",
+  DOMAIN: env.DOMAIN || "http://localhost:3000/",
   db: {
     user: env.DB_USER || "root",
     host: env.DB_HOST || "localhost",
