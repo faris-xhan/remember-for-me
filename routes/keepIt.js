@@ -5,7 +5,7 @@ const { createContent } = require("../services/remember");
 const router = express.Router();
 
 router.get("/:content", async (req, res, next) => {
-  const contentId = await createContent(req.params.text);
+  const contentId = await createContent(req.params.content);
   if (contentId) return res.send(DOMAIN + contentId);
   return res
     .status(404)
