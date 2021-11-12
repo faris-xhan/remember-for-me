@@ -10,9 +10,6 @@
   <a href="https://github.com/ayushgptaa/SauceKudasai/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://twitter.com/nemoxhan" target="_blank">
-    <img alt="Twitter: nemoxhan" src="https://img.shields.io/twitter/follow/ayushgptaa.svg?style=social" />
-</p>
 
 > A simple node server that will save your content and return a url, by that url you can get you're saved content back.
 
