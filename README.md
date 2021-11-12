@@ -1,6 +1,6 @@
 <!-- @format -->
 
-<h1 align="center"> SauceKudasai ✨</h1>
+<h1 align="center"> Remember For Me ✨</h1>
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
@@ -34,13 +34,13 @@ npm run dev
 
 ## What I learned 🤓
 
--   How to connect mysql with Express.js 
--   How to work with environment varaibles.
--   How to host your express app.
+- How to connect mysql with Express.js
+- How to work with environment varaibles.
+- How to host your express app.
 
 ## Author
 
 👤 ** Faris **
 
--   Twitter: [@nemo-xhan](https://twitter.com/nemo-xhan)
--   Github: [@faris-xhan](https://github.com/faris-xhan)
+- Twitter: [@nemo-xhan](https://twitter.com/nemo-xhan)
+- Github: [@faris-xhan](https://github.com/faris-xhan)
